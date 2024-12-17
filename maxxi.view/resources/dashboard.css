@@ -1,0 +1,19 @@
+.sidebar{
+  -fx-background-color: black;
+}
+.content{
+   
+}
+.compra-oro-content{
+    -fx-background-color: rgb(234, 44, 44);
+}
+.oro-container{
+    -fx-background-color: rgb(54, 97, 177);
+}
+.option{
+    -fx-background-color: rgb(84, 211, 95);
+}
+
+.option:hover{
+    -fx-background-color: rgb(158, 220, 163);
+}

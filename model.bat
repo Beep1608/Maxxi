@@ -1,0 +1,5 @@
+javac ^
+--module-path "C:\Program Files\Java\javafx-sdk-21.0.3\lib" ^
+--class-path "" ^
+-d "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\target" ^
+"C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\models\UserModel.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\models\OwnerModel.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\models\EmpleadoModel.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\models\AdministradorModel.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\models\MainModel.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\src\module-info.java"

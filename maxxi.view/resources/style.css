@@ -1,0 +1,65 @@
+.top-container{
+    -fx-text-fill: red;
+}
+
+.top-name-logo{
+    -fx-text-fill: red;
+}
+
+.left-main{
+    -fx-background-color: rgb(202, 104, 104);
+
+}
+.left-main-inner{
+    -fx-background-color: rgb(121, 137, 42);
+
+}
+.center-container{
+    -fx-background-color: rgb(137, 42, 42);
+
+}
+
+.bottom-container{
+    color: aqua;
+}
+
+
+.rigth-main{
+   
+}
+
+
+
+.switching-label{
+    -fx-font-size: 20px;
+    -fx-text-fill: rgb(129, 124, 124);
+}
+.active-switching{
+    -fx-text-fill: rgb(39, 107, 218);
+}
+
+.active-switchingbox{
+    -fx-border-color: transparent transparent rgb(39, 107, 218) transparent;
+}
+
+.text-field-login{
+   
+    -fx-focus-color: transparent;
+    -fx-faint-focus-color: transparent;
+    -fx-effect: dropshadow(gaussian, rgba(48, 48, 48, 0.033), 2, 0.5, 2, 2);
+    -fx-border-width: 0;
+    -fx-background-color: white; /* Color de fondo del TextField */
+    -fx-background-insets: 0; /* Elimina el borde interno */
+}
+
+.login-btn{
+    -fx-text-fill: rgb(255, 255, 255);
+    -fx-background-color: rgb(39, 107, 218);
+    -fx-font-size: 15px;
+}
+
+.login-btn:hover{
+    -fx-text-fill:rgb(39, 107, 218);
+    -fx-background-color: rgb(255, 255, 255);
+
+}

@@ -1,0 +1,5 @@
+javac ^
+--module-path "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.model\target;C:\Program Files\Java\javafx-sdk-21.0.3\lib" ^
+--class-path "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\resources" ^
+-d "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\target" ^
+"C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\src\views\LoginViewBuilder.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\src\views\EmpleadoViewBuilder.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\src\views\DashboardViewBuilder.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\src\views\MainViewBuilder.java" "C:\Users\fidel\Documents\MaxxiPrestamos Java\MaxxiPrestamos MVC-I\maxxi.view\src\module-info.java"
